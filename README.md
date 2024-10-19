@@ -13,7 +13,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `apt install git -y`
 
-* `git clone  https://github.com/CyberDarker/UserFinder.git`
+* `git clone  https://github.com/CyberDarker/IP-Tracer.git`
 
 * `cd IP-Tracer`
 
